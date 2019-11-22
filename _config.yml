@@ -6,19 +6,19 @@
 
 
 # creator contact email for meta tags
-email: ewilliamson@uidaho.edu
+email: rsbevill@usf.edu
 # collection project date, when did you publish this
 collection-date: "2019"
 
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: https://rsbevill.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-gh
+baseurl: /commonplacecollectionbuilder
 
 
 # google services [optional!]
 # leave these blank or comment out to NOT include google code
-google-tracking-id: "UA-74844011-1"
+# google-tracking-id: "UA-74844011-1"
 # google-cse-id: "002151703305773322890:1pu3smhw1t8"
 
 # build settings
